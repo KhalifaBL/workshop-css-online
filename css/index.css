@@ -1,0 +1,12 @@
+#flex-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#flex-box > img{
+    width: 400px;
+    margin: 20px;
+    border: 1px solid black;
+    padding: 5px;
+    
+}
